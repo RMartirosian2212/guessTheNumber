@@ -1,0 +1,16 @@
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\bin\Debug\net5.0\guessTheNumber.exe
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\bin\Debug\net5.0\guessTheNumber.deps.json
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\bin\Debug\net5.0\guessTheNumber.runtimeconfig.json
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\bin\Debug\net5.0\guessTheNumber.runtimeconfig.dev.json
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\bin\Debug\net5.0\guessTheNumber.dll
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\bin\Debug\net5.0\ref\guessTheNumber.dll
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\bin\Debug\net5.0\guessTheNumber.pdb
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.csprojAssemblyReference.cache
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.AssemblyInfoInputs.cache
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.AssemblyInfo.cs
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.dll
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\obj\Debug\net5.0\ref\guessTheNumber.dll
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.pdb
+C:\Users\Bobi\source\repos\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.genruntimeconfig.cache
